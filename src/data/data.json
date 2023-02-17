@@ -1,0 +1,179 @@
+{
+  "Header": {
+    "title": "Tranquilidad Jurídica",
+    "paragraph": "Somos un equipo de profesionales del derecho liderados por el Doctor Gómez que atendemos las área de Responsabilidad Estatal, Culpa Medica, Civil y Familia"
+  },
+  "About": {
+    "paragraph": "Somos un equipo de profesionales del derecho liderados por el Doctor Gómez que atendemos las área de Responsabilidad Estatal, Culpa Medica, Civil y Familia. Somos un equipo de profesionales en ciencias jurídicas, versados en diversas ramas del derecho, especialmente en el área de la responsabilidad civil y del estado derivada de accidentes de tránsito, encausados en la solución de problemas a nuestros clientes, siempre con la empatía y consideración por sus necesidades. ",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Responsabilidad Estatal",
+      "text": "Se refiere a la obligación del Estado de garantizar el cumplimiento de sus funciones y de proteger los derechos fundamentales de los ciudadanos. "
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Culpa Médica",
+      "text": "Es el descuido, omisión o falta de aplicación o diligencia, en la ejecución de un acto médico. Es decir, es la carencia de atención durante el ejercicio médico. "
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Familia",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Civil",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Asesorias en general",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Quería darte las gracias una vez mas por representar mi caso de una manera tan experta, fuerte, honorable, y directa. Te doy muchas gracias por todo lo que has hecho por mi y por mi madre…\"",
+      "name": "Luisa Maria Lopez"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Me gustaría compartir la experiencia muy profesional y agradable al tratar con José Lázaro. José ha sido muy informativo y útil a lo largo de este proceso. Se acomodó a las necesidades de mi familia, al venir a nuestro ...\"",
+      "name": "Luz M. Castillo"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Tengo tanto que decir, pero voy a empezar con decir gracias. Me sentía tan indefensa e incierta hasta que tomaron mi caso, ha sido excepcional en todo aspecto.\"",
+      "name": "Camila Miraflorez"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Responsabilidad Estatal",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Culpa Médica",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Familia",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Civil",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
