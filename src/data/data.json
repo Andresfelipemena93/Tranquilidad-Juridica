@@ -6,16 +6,16 @@
   "About": {
     "paragraph": "Somos un equipo de profesionales del derecho liderados por el Doctor Gómez que atendemos las área de Responsabilidad Estatal, Culpa Medica, Civil y Familia. Somos un equipo de profesionales en ciencias jurídicas, versados en diversas ramas del derecho, especialmente en el área de la responsabilidad civil y del estado derivada de accidentes de tránsito, encausados en la solución de problemas a nuestros clientes, siempre con la empatía y consideración por sus necesidades. ",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Responsabilidad",
+      "Confidencialidad",
+      "Experiencia ",
+      "Altos casos de éxito"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Amplio equipo de trabajo",
+      "Abogados especialistas",
+      "Profesionales",
+      "Cumplimiento"
     ]
   },
   "Gallery": [
@@ -67,113 +67,95 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa fa-university",
       "name": "Responsabilidad Estatal",
       "text": "Se refiere a la obligación del Estado de garantizar el cumplimiento de sus funciones y de proteger los derechos fundamentales de los ciudadanos. "
     },
     {
-      "icon": "fa fa-cart-arrow-down",
+      "icon": "fa fa-user-md",
       "name": "Culpa Médica",
       "text": "Es el descuido, omisión o falta de aplicación o diligencia, en la ejecución de un acto médico. Es decir, es la carencia de atención durante el ejercicio médico. "
     },
     {
-      "icon": "fa fa-cloud-download",
+      "icon": "fa fa-users",
       "name": "Familia",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Somos expertos en derecho familiar preparados para atender su caso inmediatamente. Te guiaremos en cualquier tema relacionado con el derecho de familia que usted necesite."
     },
     {
-      "icon": "fa fa-language",
+      "icon": "fa fa-user",
       "name": "Civil",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "En Tranquilidad Jurídica contamos con abogados expertos en derecho civil, no dudes en comunicarte; Puedes contactarnos para que un experto te asesore."
     },
     {
-      "icon": "fa fa-plane",
+      "icon": "fa fa-newspaper-o",
       "name": "Asesorias en general",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "text": "Nuestros abagados se han especializado en atender y aplicar las leyes colombianas a favor de todos y cada uno de nuestros clientes."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
       "text": "\"Quería darte las gracias una vez mas por representar mi caso de una manera tan experta, fuerte, honorable, y directa. Te doy muchas gracias por todo lo que has hecho por mi y por mi madre…\"",
-      "name": "Luisa Maria Lopez"
+      "name": "Juan Lopez"
     },
     {
       "img": "img/testimonials/02.jpg",
       "text": "\"Me gustaría compartir la experiencia muy profesional y agradable al tratar con José Lázaro. José ha sido muy informativo y útil a lo largo de este proceso. Se acomodó a las necesidades de mi familia, al venir a nuestro ...\"",
-      "name": "Luz M. Castillo"
+      "name": "Luis M. Castillo"
     },
     {
       "img": "img/testimonials/03.jpg",
       "text": "\"Tengo tanto que decir, pero voy a empezar con decir gracias. Me sentía tan indefensa e incierta hasta que tomaron mi caso, ha sido excepcional en todo aspecto.\"",
-      "name": "Camila Miraflorez"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Camilo Miraflorez"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "José Lázaro Gómez Montes",
+      "job": "Director - CEO"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Lucía Cadavid",
+      "job": "Abogada Penalista"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Carlos Marín",
+      "job": "Abogado civil"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Jhon F. Uribe",
+      "job": "Abogado de familia"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "CIRCULAR 76 # 38-105  APARTAMENTO 201 EDIFICIO PRIMAVERA DE LAURELES 2 ",
+    "phone": "3176691502 - (604) 504 97 51",
+    "email": "jolagomon@hotmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Responsabilidad Estatal",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-university",
+      "title": "Responsabilidad Estatal"
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Culpa Médica",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-user-md",
+      "title": "Culpa Médica"
     },
     {
-      "icon": "fa fa-group",
-      "title": "Familia",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-users",
+      "title": "Familia"
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Civil",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-user",
+      "title": "Civil"
+    
     }
   ]
 }
