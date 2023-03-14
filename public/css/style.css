@@ -84,7 +84,7 @@ hr {
   font-family: "Raleway", sans-serif;
   font-size: 24px;
   font-weight: 700;
-  color: #333;
+  color: #c38c16;
   text-transform: uppercase;
 }
 #menu.navbar-default .navbar-nav > li > a {
@@ -104,7 +104,8 @@ hr {
   bottom: -1px;
   width: 0;
   height: 2px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+  background-color: #c38c16;
   content: "";
   transition: width 0.2s;
 }
@@ -125,7 +126,8 @@ hr {
   bottom: -1px !important;
   width: 100% !important;
   height: 2px !important;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important;
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%) !important; */
+  background-color: #c38c16 !important;
   content: "" !important;
   transition: width 0.2s !important;
 }
@@ -135,10 +137,10 @@ hr {
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
   background-color: #fff;
-  border-color: #608dfd;
+  border-color: #c38c16;
 }
 .navbar-default .navbar-toggle:hover > .icon-bar {
-  background-color: #608dfd;
+  background-color: #c38c16;
 }
 .section-title {
   margin-bottom: 70px;
@@ -148,11 +150,13 @@ hr {
   margin-top: 10px;
   margin-bottom: 15px;
   padding-bottom: 15px;
+  color: #c38c16
 }
 .section-title h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  /* background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%); */
+  background-color: #c38c16;
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -166,8 +170,8 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-color: #c38c16;
+  /* background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%); */
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +188,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #a77a19;
 }
 .btn:active,
 .btn.active {
@@ -257,7 +261,8 @@ header .intro-text {
   height: 100px;
   padding: 30px 0;
   border-radius: 50%;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+  background-color: #c38c16;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
 }
 /* About Section */
@@ -267,16 +272,19 @@ header .intro-text {
 #about h3 {
   font-size: 22px;
   margin: 0 0 20px;
+  color: #c38c16;
 }
 #about h2 {
   position: relative;
   margin-bottom: 15px;
   padding-bottom: 15px;
+  color: #c38c16;
 }
 #about h2::after {
   position: absolute;
   content: "";
-  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  /* background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%); */
+  background-color: #c38c16;
   height: 4px;
   width: 60px;
   bottom: 0;
@@ -291,7 +299,7 @@ header .intro-text {
 #about .about-text li:before {
   content: "\f00c";
   font-family: "FontAwesome";
-  color: #5ca9fb;
+  color: #c38c16;
   font-size: 11px;
   font-weight: 300;
   padding-right: 8px;
@@ -310,7 +318,8 @@ header .intro-text {
 /* Services Section */
 #services {
   padding: 100px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+  background-color: #c38c16;
   color: #fff;
 }
 #services .service-desc {
@@ -334,7 +343,8 @@ header .intro-text {
   width: 120px;
   height: 120px;
   padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+  background-color: #f1b83d;
   border-radius: 50%;
   color: #fff;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
@@ -460,7 +470,8 @@ header .intro-text {
 /* Contact Section */
 #contact {
   padding: 100px 0 60px;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  /* background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%); */
+  background-color: #c38c16;
   color: rgba(255, 255, 255, 0.75);
 }
 #contact .section-title {
@@ -478,7 +489,8 @@ header .intro-text {
 #contact .section-title h2::after {
   position: absolute;
   content: "";
-  background: rgba(255, 255, 255, 0.3);
+  /* background: rgba(255, 255, 255, 0.3); */
+  background-color: #f2b636;
   height: 4px;
   width: 60px;
   bottom: 0;
